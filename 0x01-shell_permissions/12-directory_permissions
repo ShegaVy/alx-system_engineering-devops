@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-=======
 #!/bin/bash
->>>>>>> 26ba023d74858d088ce7859e8438a563dcc9eb7b
 mkdir -m 751 my_dir
